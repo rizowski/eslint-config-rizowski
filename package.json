@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rizowski",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Rizowski's personal linting rules",
   "main": "index.js",
   "scripts": {
