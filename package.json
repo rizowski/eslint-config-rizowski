@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-rizowski",
+  "version": "1.0.0",
+  "description": "Rizowski's personal linting rules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizowski/eslint-config-rizowski.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "config",
+    "rizowski"
+  ],
+  "author": "Colten Rouska",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/rizowski/eslint-config-rizowski/issues"
+  },
+  "homepage": "https://github.com/rizowski/eslint-config-rizowski#readme"
+}
