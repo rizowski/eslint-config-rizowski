@@ -6,7 +6,7 @@ module.exports = {
     'block-scoped-var': 2,
     'block-scoped-var': 2,
     'camelcase': 2,
-    'complexity': [2, 5],
+    'complexity': [2, 9:],
     'consistent-return': 1,
     'dot-location': [2, 'property'],
     'eol-last': 2,
