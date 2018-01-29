@@ -10,7 +10,7 @@ module.exports = {
     'fp/no-delete': 2,
     'fp/no-mutating-assign': 2,
     'fp/no-mutating-methods': 2,
-    'fp/no-var': 2,
+    'no-var': 2,
 
     'block-scoped-var': 2,
     'block-scoped-var': 2,
