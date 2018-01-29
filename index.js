@@ -1,8 +1,17 @@
 module.exports = {
-  'env':{
-    'node': true
+  env:{
+    node: true
   },
-  'rules':{
+  plugins: [
+    "fp"
+  ],
+  rules: {
+    'fp/no-arguments': 2,
+    'fp/no-delete': 2,
+    'fp/no-mutating-assign': 2,
+    'fp/no-mutating-methods': 2,
+    'fp/no-var': 2,
+
     'block-scoped-var': 2,
     'block-scoped-var': 2,
     'camelcase': 2,
