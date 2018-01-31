@@ -6,10 +6,10 @@ module.exports = {
     "fp"
   ],
   rules: {
-    'fp/no-arguments': 2,
+    'fp/no-arguments': 1,
     'fp/no-delete': 2,
     'fp/no-mutating-assign': 2,
-    'fp/no-mutating-methods': 2,
+    'fp/no-mutating-methods': 1,
     'no-var': 2,
 
     'block-scoped-var': 2,
